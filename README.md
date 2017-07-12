@@ -1,5 +1,5 @@
 # ReactReduxBoilerPlateWCreateReactApp
-React Redux boilerplate made with create-react-app
+React Redux boilerplate made with create-react-app, includes react-redux and react-router-dom amongst other dependencies
 
 ### Use [yarn](https://yarnpkg.com/en/) for dependency management instead of npm!
 
