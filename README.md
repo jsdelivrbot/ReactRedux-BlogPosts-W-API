@@ -33,9 +33,9 @@ Removes this tool and copies build dependencies, configuration files and scripts
 I suggest that you begin by typing:
 
 ```
-git clone git@github.com:florestankorp/ReactReduxBoilerPlateWCreateReactApp.git
+git clone git@github.com:florestankorp/ReactRedux-BlogPosts-W-API.git
 
-cd ReactReduxBoilerPlateWCreateReactApp
+cd ReactRedux-BlogPosts-W-API
 
 yarn start
 ```
