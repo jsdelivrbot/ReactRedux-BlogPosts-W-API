@@ -34,6 +34,8 @@ I suggest that you begin by typing:
 
 ```
 git clone git@github.com:florestankorp/ReactReduxBoilerPlateWCreateReactApp.git
+
 cd ReactReduxBoilerPlateWCreateReactApp
+
 yarn start
 ```
