@@ -4,7 +4,7 @@ export default class PostsIndex extends Component {
   render () {
     return (
       <div>
-        PostsIndex
+        Posts Index
       </div>
     )
   }
