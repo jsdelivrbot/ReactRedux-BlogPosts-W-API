@@ -1,7 +1,7 @@
-# ReactReduxBoilerPlateWCreateReactApp
-React Redux boilerplate made with create-react-app
+# ReactRedux-BlogPosts-W-API
+React Redux blog with posts fetched from an API
 
-### Use [yarn](https://yarnpkg.com/en/) for dependency management instead of npm!
+### For this project use [yarn](https://yarnpkg.com/en/) for dependency management instead of npm!
 
 ```
 yarn
@@ -33,7 +33,9 @@ Removes this tool and copies build dependencies, configuration files and scripts
 I suggest that you begin by typing:
 
 ```
-git clone git@github.com:florestankorp/ReactReduxBoilerPlateWCreateReactApp.git
-cd ReactReduxBoilerPlateWCreateReactApp
+git clone git@github.com:florestankorp/ReactRedux-BlogPosts-W-API.git
+
+cd ReactRedux-BlogPosts-W-API
+
 yarn start
 ```
